@@ -88,7 +88,7 @@
 {
     width: 100%;
     height: 100%;
-   background-image: url('../img/banner-1.jpg');
+   background-image: url('banner-1.jpg');
    background-repeat: no-repeat;
    padding: 2% 2%;
 }
@@ -371,7 +371,7 @@ height: 85%;
 {
     width: 59%;
     height: 100%;
-    background-image: url("../img/download2.jpg");
+    background-image: url("download2.jpg");
     background-repeat: no-repeat;
     padding-left: 4%;
 }
@@ -391,11 +391,11 @@ height: 85%;
 }
 .right3
 {
-    background-image: url("../img/download.jpg");
+    background-image: url("download.jpg");
 }
 .right2
 {
-    background-image: url("../img/back1.jpg")
+    background-image: url("back1.jpg")
 }
 .item
 {
@@ -431,7 +431,7 @@ height: 85%;
 {
     width: 100%;
     height: 100%;
-    background-image: url("../img/WhatsApp\ Image\ 2025-07-01\ at\ 20.48.10_1dbbfe0a.jpg");
+    background-image: url("WhatsApp\ Image\ 2025-07-01\ at\ 20.48.10_1dbbfe0a.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
